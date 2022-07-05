@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, mundo! 👋 </h2>
-<h3 align="center">  Meu nome é </h3>
-<h1 align="center"> Silva. </h1>
+<h3 align="center">  Obrigado por vir ao GitHub de:  </h3>
+<h1 align="center"> Silva :rofl: </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Norican&size=32&color=015864&center=true&vCenter=true&width=500&lines=Por+vezes+aprendendo+algo+novo.;Outras+vezes+rememorando+o+aprendido.;Sempre+aprimorando." />
@@ -8,7 +8,7 @@
 
   ##
 
-<details>
+<details open>
   <summary> 💼 Ferramentas e tecnologias </summary> 
   &nbsp;
   <div style="display: inline_block">
