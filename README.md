@@ -49,9 +49,9 @@
   ##
 &nbsp;
 
-<div align="center">
-  <img width="400em" height="120em" src="https://github-readme-stats.vercel.app/api?username=silva-filho&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-filho&layout=compact&langs_count=7&theme=dracula&hide_title=true"/>
+<div align="center" >
+  <img width="400rem" height="150rem" src="https://github-readme-stats.vercel.app/api?username=silva-filho&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img width="350rem" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-filho&layout=compact&langs_count=7&theme=dracula&hide_title=true"/>
 </div>
 
 ![Snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake.svg)
