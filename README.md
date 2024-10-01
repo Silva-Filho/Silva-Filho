@@ -1,4 +1,13 @@
 <h2 align="center"> Olá, mundo! 👋 </h2>
+<p>
+  Sou um programador júnior apaixonado pela ideia de construção de soluções que impactem positivamente a sociedade. Acredito que a programação possa ser uma ferramenta poderosa para criar um mundo melhor e estou determinado a fazer a minha parte.
+</p>
+<p>
+  Desde cedo, sempre fui curioso e fascinado por como as coisas funcionam. Essa curiosidade me levou a explorar o universo da programação, onde encontrei minha paixão. Estou sempre buscando aprender e me adaptar às novas tendências do mercado, e a minha determinação me ajuda a enfrentar desafios com resiliência.
+</p>
+<p>
+  Estou em busca de colaborações e oportunidades para aplicar minhas habilidades em projetos que façam a diferença.
+</p>
 <h3 align="center">  Obrigado por vir ao GitHub de:  </h3>
 <h1 align="center"> Silva :rofl: </h1>
 
@@ -69,11 +78,13 @@
 &nbsp;
 
 <div align="center" >
-  <img width="400rem" height="150rem" src="https://github-readme-stats.vercel.app/api?username=silva-filho&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img width="400rem" height="150rem" src="https://github-readme-stats.vercel.app/api?username=silva-filho&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=86400"/>
+  <!-- <img width="400rem" height="150rem" src="https://github-readme-stats.vercel.app/api?username=silva-filho&layout=compact&show_icons=true&theme=dracula&hide_title=true&cache_seconds=86400&include_all_commits=true"/> -->
   <img width="350rem" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-filho&layout=compact&langs_count=7&theme=dracula&hide_title=true"/>
 </div>
 
 ![Snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- width="300em" height="120em" -->
 <!--
