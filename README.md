@@ -14,25 +14,40 @@
   <div style="display: inline_block">
     <img align="center" alt="ícone css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="ícone htm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="ícone git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="ícone js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="ícone node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="ícone react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="ícone git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="ícone github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="center" alt="ícone postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="ícone tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="center" alt="ícone mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="ícone vitejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
+    <img align="center" alt="ícone react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="ícone tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+    <img align="center" alt="ícone angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img align="center" alt="ícone typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="ícone sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="ícone axios" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" />
+    <img align="center" alt="ícone insomnia" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/insomnia/insomnia-original.svg" />
+    <img align="center" alt="ícone knexjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/knexjs/knexjs-original-wordmark.svg" />
   </div>
 </details>
 
   ##
 
-<details>
+<details open>
   <summary> :writing_hand: Estudando</summary> 
   &nbsp;
   <div style="display: inline_block">
-    <img align="center" alt="ícone angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center" alt="ícone sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align="center" alt="ícone typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="ícone intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" />
+    <img align="center" alt="ícone java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" />
+    <img align="center" alt="ícone spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" />
+    <img align="center" alt="ícone junit" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" />
+    <img align="center" alt="ícone jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" />
+    <img align="center" alt="ícone vitest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-original.svg" />
+    <img align="center" alt="ícone nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="ícone nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="ícone sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sequelize/sequelize-plain.svg" />
+    <img align="center" alt="ícone swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
   </div>
 </details>
 
@@ -43,6 +58,10 @@
   &nbsp;
   <div style="display: inline_block">
     <img align="center" alt="ícone mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="ícone docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" />
+    <img align="center" alt="ícone fastapi" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original-wordmark.svg" />
+    <img align="center" alt="ícone fastify" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastify/fastify-original-wordmark.svg" />
+    <img align="center" alt="ícone " height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastify/fastify-original-wordmark.svg" />
   </div>
 </details>
 
