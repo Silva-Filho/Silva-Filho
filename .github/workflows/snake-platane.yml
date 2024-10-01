@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake Datas
 
 on:
   schedule: # execute every 12 hours
@@ -12,7 +12,7 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: snake-gif-platane
         with:
           github_user_name: Silva-Filho
           svg_out_path: dist/github-contribution-grid-snake.svg
