@@ -83,8 +83,9 @@
   <img width="350rem" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-filho&layout=compact&langs_count=7&theme=dracula&hide_title=true"/>
 </div>
 
-![Snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake.svg)
-![snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![Snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Silva-Filho/Silva-Filho/blob/output/github-contribution-grid-snake2.svg)> -->
+<img src="https://raw.githubusercontent.com/Silva-Filho/Silva-Filho/output/snake.svg" alt="Snake animation" />
 
 <!-- width="300em" height="120em" -->
 <!--
